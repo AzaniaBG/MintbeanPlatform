@@ -8,6 +8,7 @@
     "extends": [
         "plugin:vue/essential",
         "standard"
+
     ],
     "globals": {
         "Atomics": "readonly",
